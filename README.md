@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **AMS347/AMS347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a passionate software developer specializing in backend development and cloud computing. I love creating efficient, scalable, and secure applications. Here's a bit more about me:
@@ -13,7 +12,7 @@ I'm a passionate software developer specializing in backend development and clou
 - 📫 How to reach me: You can reach me via email at [aams333@hotmail.com](mailto:aams333@hotmail.com) or connect with me on LinkedIn at [www.linkedin.com/in/alex-a-mendoza-s](https://www.linkedin.com/in/alex-a-mendoza-s). I look forward to hearing from you!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to listen to rock music and play soccer.
--->
+- 
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, Python, Java, VB.net
