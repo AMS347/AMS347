@@ -3,7 +3,7 @@
 <!--
 **AMS347/AMS347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate software developer specializing in backend development and cloud computing. I love creating efficient, scalable, and secure applications. Here's a bit more about me:
 
 - 🔭 I am currently working on integrating SAP with CRM using VB.net and MVC.net.
 - 🌱 I’m currently learning React and everything front end related.
